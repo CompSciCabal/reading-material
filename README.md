@@ -1,11 +1,12 @@
 ## Friday night reading group
 
 ### Upcoming papers
-* **August 11**: [Practical Coinduction?](https://cdn.rawgit.com/CompSciCabal/reading-material/6c8e42d0/pdfs/Practical%20Coinduction.pdf) _(Dann)_
-* **August 18**: [The Imitation Game](https://cdn.rawgit.com/CompSciCabal/reading-material/de9cbba3/pdfs/Computing%20Machinery%20And%20Intelligence.pdf) _(Scott)_
-* **August 25**: [Hygienic Resugaring of Compositional Desugaring](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/hygenic_desugaring.pdf) _(Huma)_
-* **September 1**: [Supercompilation: Ideas and Methods](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/supercompilation.pdf) _(Greg)_
-* **September 8**: [Efficient Immutable Vectors](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/RMTrees.pdf) _(Jim)_
+* **August 11**: [A self-intepreter for System T](https://via.hypothes.is/https://cdn.rawgit.com/CompSciCabal/reading-material/0fec1d70/pdfs/self-interpreter-for-T.pdf) _(Ben)_
+* **August 18**: [Practical Coinduction?](https://cdn.rawgit.com/CompSciCabal/reading-material/6c8e42d0/pdfs/Practical%20Coinduction.pdf) _(Dann)_
+* **August 25**: [The Imitation Game](https://cdn.rawgit.com/CompSciCabal/reading-material/de9cbba3/pdfs/Computing%20Machinery%20And%20Intelligence.pdf) _(Scott)_
+* **September 1**: [Hygienic Resugaring of Compositional Desugaring](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/hygenic_desugaring.pdf) _(Huma)_
+* **September 8**: [Supercompilation: Ideas and Methods](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/supercompilation.pdf) _(Greg)_
+* **September 15**: [Efficient Immutable Vectors](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/RMTrees.pdf) _(Jim)_
 
 
 ---------------------------
