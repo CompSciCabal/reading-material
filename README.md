@@ -46,8 +46,8 @@ We usually meet at Bento Miso at 6:30pm, but check the schedule to be sure.
 
 We previously read:
 * [PFPL](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/pfpl2.pdf) ([Schedule](https://github.com/CompSciCabal/SMRTYPRTY/wiki/Reading-Schedule!-PFPL) and [Arcana](https://github.com/CompSciCabal/SMRTYPRTY/wiki/PFPL-And-Related-Arcana))
-* [computer science papers](https://github.com/CompSciCabal/SMRTYPRTY/wiki/Reading-Schedule!-Papers-2015)
-* [SICP](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/sicp.pdf) [Note](https://github.com/CompSciCabal/SMRTYPRTY/wiki/Reading-Schedule!-SICP-Mark-I).
+* [other computer science papers](https://github.com/CompSciCabal/SMRTYPRTY/wiki/Reading-Schedule!-Papers-2015)
+* [SICP](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/sicp.pdf) ([Notes](https://github.com/CompSciCabal/SMRTYPRTY/wiki/Reading-Schedule!-SICP-Mark-I))
 
 ## Thursday night reading group
 
