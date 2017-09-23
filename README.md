@@ -1,12 +1,10 @@
 ## Friday night reading group
 
 ### Upcoming papers
-* **August 11**: [A self-intepreter for System T](https://via.hypothes.is/https://cdn.rawgit.com/CompSciCabal/reading-material/0fec1d70/pdfs/self-interpreter-for-T.pdf) _(Ben)_
-* **August 18**: [Practical Coinduction?](https://cdn.rawgit.com/CompSciCabal/reading-material/6c8e42d0/pdfs/Practical%20Coinduction.pdf) _(Dann)_
-* **August 25**: [The Imitation Game](https://cdn.rawgit.com/CompSciCabal/reading-material/de9cbba3/pdfs/Computing%20Machinery%20And%20Intelligence.pdf) _(Scott)_
-* **September 1**: [Hygienic Resugaring of Compositional Desugaring](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/hygenic_desugaring.pdf) _(Huma)_
-* **September 8**: [Supercompilation: Ideas and Methods](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/supercompilation.pdf) _(Greg)_
-* **September 15**: [Efficient Immutable Vectors](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/RMTrees.pdf) _(Jim)_
+* **September 1**: [The Imitation Game](https://cdn.rawgit.com/CompSciCabal/reading-material/de9cbba3/pdfs/Computing%20Machinery%20And%20Intelligence.pdf) _(Scott)_
+* **September 8**: [Hygienic Resugaring of Compositional Desugaring](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/hygenic_desugaring.pdf) _(Huma)_
+* **September 15**: [Supercompilation: Ideas and Methods](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/supercompilation.pdf) _(Greg)_
+* **September 22**: [Efficient Immutable Vectors](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/RMTrees.pdf) _(Jim)_
 
 
 ---------------------------
@@ -14,6 +12,9 @@
 ### Past papers
 
 August 2017
+* August 25: [Practical Coinduction?](https://cdn.rawgit.com/CompSciCabal/reading-material/6c8e42d0/pdfs/Practical%20Coinduction.pdf) _(Dann)_
+* August 18: [Marble Mingling](https://cdn.rawgit.com/CompSciCabal/reading-material/master/pdfs/curtis2003.pdf) _(Pete)_
+* August 11: [A self-intepreter for System T](https://via.hypothes.is/https://cdn.rawgit.com/CompSciCabal/reading-material/0fec1d70/pdfs/self-interpreter-for-T.pdf) _(Ben)_
 * August 4: [Breaking through the normalization barrier: a self-interpreter for F-omega](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/f_omega_norm.pdf) _(Ben)_
 
 July 2017
@@ -46,8 +47,8 @@ We usually meet at Bento Miso at 6:30pm, but check the schedule to be sure.
 
 We previously read:
 * [PFPL](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/pfpl2.pdf) ([Schedule](https://github.com/CompSciCabal/SMRTYPRTY/wiki/Reading-Schedule!-PFPL) and [Arcana](https://github.com/CompSciCabal/SMRTYPRTY/wiki/PFPL-And-Related-Arcana))
-* [computer science papers](https://github.com/CompSciCabal/SMRTYPRTY/wiki/Reading-Schedule!-Papers-2015)
-* [SICP](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/sicp.pdf) [Note](https://github.com/CompSciCabal/SMRTYPRTY/wiki/Reading-Schedule!-SICP-Mark-I).
+* [other computer science papers](https://github.com/CompSciCabal/SMRTYPRTY/wiki/Reading-Schedule!-Papers-2015)
+* [SICP](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/sicp.pdf) ([Notes](https://github.com/CompSciCabal/SMRTYPRTY/wiki/Reading-Schedule!-SICP-Mark-I))
 
 ## Thursday night reading group
 
