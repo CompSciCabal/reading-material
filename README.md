@@ -2,7 +2,7 @@
 
 ### Upcoming papers
 
-* September 29: [Efficient Immutable Vectors](https://cdn.rawgit.com/CompSciCabal/reading-material/b808040c/pdfs/morally_correct.pdf) _(Pete)_
+* September 29: [Fast and Loose Reasoning is Morally Correct](https://cdn.rawgit.com/CompSciCabal/reading-material/b808040c/pdfs/morally_correct.pdf) _(Pete)_
 
 
 ---------------------------
