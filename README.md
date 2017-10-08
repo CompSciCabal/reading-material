@@ -2,7 +2,11 @@
 
 ### Upcoming papers
 
-* September 29: [Fast and Loose Reasoning is Morally Correct](https://cdn.rawgit.com/CompSciCabal/reading-material/b808040c/pdfs/morally_correct.pdf) _(Pete)_
+October 2017
+* October 6: RRB program show and tell _(Scott and Leo)_
+* October 13: Functional Programming with Bananas, Lenses, Envelopes, and Barbed Wire _(James)_
+* October 20: [Fast and Loose Reasoning is Morally Correct](https://cdn.rawgit.com/CompSciCabal/reading-material/b808040c/pdfs/morally_correct.pdf) _(Pete)_
+
 
 
 ---------------------------
@@ -14,6 +18,7 @@ September 2017
 * September 8: [Hygienic Resugaring of Compositional Desugaring](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/hygenic_desugaring.pdf) _(Huma)_
 * September 15: [Supercompilation: Ideas and Methods](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/supercompilation.pdf) _(Greg)_
 * September 22: [Efficient Immutable Vectors](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/RMTrees.pdf) _(Jim)_
+* September 29: [Fast and Loose Reasoning is Morally Correct](https://cdn.rawgit.com/CompSciCabal/reading-material/b808040c/pdfs/morally_correct.pdf) _(Pete)_
 
 
 August 2017
