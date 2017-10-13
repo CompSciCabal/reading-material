@@ -4,7 +4,7 @@
 
 October 2017
 * October 6: RRB program show and tell _(Scott and Leo)_
-* October 13: Functional Programming with Bananas, Lenses, Envelopes, and Barbed Wire _(James)_
+* October 13: [Functional Programming with Bananas, Lenses, Envelopes, and Barbed Wire](https://cdn.rawgit.com/CompSciCabal/reading-material/99eabdb0/pdfs/bananas-lenses-barbed-wire.pdf) _(James)_
 * October 20: [Fast and Loose Reasoning is Morally Correct](https://cdn.rawgit.com/CompSciCabal/reading-material/b808040c/pdfs/morally_correct.pdf) _(Pete)_
 
 
