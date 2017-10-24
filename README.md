@@ -6,7 +6,12 @@ October 2017
 * October 6: RRB program show and tell _(Scott and Leo)_
 * October 13: [Functional Programming with Bananas, Lenses, Envelopes, and Barbed Wire](https://cdn.rawgit.com/CompSciCabal/reading-material/99eabdb0/pdfs/bananas-lenses-barbed-wire.pdf) _(James)_
 * October 20: [Fast and Loose Reasoning is Morally Correct](https://cdn.rawgit.com/CompSciCabal/reading-material/b808040c/pdfs/morally_correct.pdf) _(Pete)_
+* October 27: Robust first computing _(Leo)_
 
+November 2017
+* November 3: PICOBIT: A Compact Scheme System for Microcontrollers _(Huma)_
+* November 10: Turing Machines: Sets, Logic, and Computation, Chapter 10 _(Scott)_
+* November 17: Why Dependent Types Matter _(Ben/James)_
 
 
 ---------------------------
