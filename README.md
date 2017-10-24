@@ -11,7 +11,7 @@ October 2017
 November 2017
 * November 3: PICOBIT: A Compact Scheme System for Microcontrollers _(Huma)_
 * November 10: Turing Machines: Sets, Logic, and Computation, Chapter 10 _(Scott)_
-* November 17: Why Dependent Types Matter _(Ben/James)_
+* November 17: Why Dependent Types Matter _(Ben)_
 
 
 ---------------------------
