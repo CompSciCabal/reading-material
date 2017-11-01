@@ -9,8 +9,8 @@ October 2017
 * October 27: Robust first computing _(Leo)_
 
 November 2017
-* November 3: PICOBIT: A Compact Scheme System for Microcontrollers _(Huma)_
-* November 10: Turing Machines: Sets, Logic, and Computation, Chapter 10 _(Scott)_
+* November 3: [PICOBIT: A Compact Scheme System for Microcontrollers](https://cdn.rawgit.com/CompSciCabal/reading-material/pdfs/picobit.pdf) _(Huma)_
+* November 10: [Turing Machines: Sets, Logic, and Computation, Chapter 10](https://cdn.rawgit.com/CompSciCabal/reading-material/pdfs/phil379-screen.pdf ) _(Scott)_
 * November 17: Why Dependent Types Matter _(Ben)_
 
 
