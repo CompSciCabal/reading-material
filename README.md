@@ -2,21 +2,23 @@
 
 ### Upcoming papers
 
-October 2017
-* October 6: RRB program show and tell _(Scott and Leo)_
-* October 13: [Functional Programming with Bananas, Lenses, Envelopes, and Barbed Wire](https://cdn.rawgit.com/CompSciCabal/reading-material/99eabdb0/pdfs/bananas-lenses-barbed-wire.pdf) _(James)_
-* October 20: [Fast and Loose Reasoning is Morally Correct](https://cdn.rawgit.com/CompSciCabal/reading-material/b808040c/pdfs/morally_correct.pdf) _(Pete)_
-* October 27: Robust first computing _(Leo)_
-
-November 2017
-* November 3: [PICOBIT: A Compact Scheme System for Microcontrollers](https://cdn.rawgit.com/CompSciCabal/reading-material/9ef02273/pdfs/picobit.pdf) _(Huma)_
-* November 10: [Turing Machines: Sets, Logic, and Computation, Chapter 10](https://cdn.rawgit.com/CompSciCabal/reading-material/9ef02273/pdfs/phil379-screen.pdf) _(Scott)_
-* November 17: Why Dependent Types Matter _(Ben)_
+* November 24: [Hazelnut](https://arxiv.org/pdf/1607.04180.pdf) _(Huma)_
 
 
 ---------------------------
 
 ### Past papers
+
+November 2017
+* November 3: [PICOBIT: A Compact Scheme System for Microcontrollers](https://cdn.rawgit.com/CompSciCabal/reading-material/9ef02273/pdfs/picobit.pdf) _(Huma)_
+* November 10: [Turing Machines: Sets, Logic, and Computation, Chapter 10](https://cdn.rawgit.com/CompSciCabal/reading-material/9ef02273/pdfs/phil379-screen.pdf) _(Scott)_
+* November 17: [Why Dependent Types Matter](http://www.cs.nott.ac.uk/~psztxa/publ/ydtm.pdf) _(Ben)_
+
+October 2017
+* October 6: RRB program show and tell _(Scott and Leo)_
+* October 13: [Functional Programming with Bananas, Lenses, Envelopes, and Barbed Wire](https://cdn.rawgit.com/CompSciCabal/reading-material/99eabdb0/pdfs/bananas-lenses-barbed-wire.pdf) _(James)_
+* October 20: [Fast and Loose Reasoning is Morally Correct](https://cdn.rawgit.com/CompSciCabal/reading-material/b808040c/pdfs/morally_correct.pdf) _(Pete)_
+* October 27: [Robust first computing](http://www.cs.unm.edu/~ackley/papers/hotos-11.pdf) _(Leo)_
 
 September 2017
 * September 1: [The Imitation Game](https://cdn.rawgit.com/CompSciCabal/reading-material/de9cbba3/pdfs/Computing%20Machinery%20And%20Intelligence.pdf) _(Scott)_
