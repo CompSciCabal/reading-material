@@ -2,12 +2,18 @@
 
 ### Upcoming papers
 
-* December 1: [Hazelnut](https://arxiv.org/pdf/1607.04180.pdf) _(Huma)_
+January 2018
+* January 5: [A Modal Analysis of Staged Computation](https://www.cs.cmu.edu/~fp/papers/jacm00.pdf)
 
 
 ---------------------------
 
 ### Past papers
+
+December 2017
+* December 15: Holiday Party and retrospective!
+* December 8: [Teaching Programming Languages in a Post-Linnaean Age](http://cs.brown.edu/~sk/Publications/Papers/Published/sk-teach-pl-post-linnaean/paper.pdf) _(Leo)_
+* December 1: [Hazelnut](https://arxiv.org/pdf/1607.04180.pdf) _(Huma)_
 
 November 2017
 * November 24: [Hazelnut](https://arxiv.org/pdf/1607.04180.pdf) _(Huma)_
