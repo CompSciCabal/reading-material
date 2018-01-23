@@ -5,7 +5,7 @@
 January 2018
 * January 26: A potpourii of homotopy: 
   * http://home.sandiego.edu/~shulman/papers/trinity.pdf 
-  * http://home.sandiego.edu/~shulman/papers/trinity.pdf 
+  * http://www.math.jhu.edu/~eriehl/ASL-HoTT.pdf
   * http://www.science4all.org/article/homotopy-type-theory/
 * January 19: [A Modal Analysis of Staged Computation](https://www.cs.cmu.edu/~fp/papers/jacm00.pdf)
 * January 12: [A Modal Analysis of Staged Computation](https://www.cs.cmu.edu/~fp/papers/jacm00.pdf)
