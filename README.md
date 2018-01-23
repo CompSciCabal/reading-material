@@ -73,7 +73,7 @@ April 2017:
 
 ------------------------------
 
-We usually meet at Bento Miso at 6:30pm, but check the schedule to be sure.
+We usually meet at Lighthouse Labs at 6:30pm, but check the schedule to be sure.
 
 We previously read:
 * [PFPL](https://cdn.rawgit.com/CompSciCabal/reading-material/af23849e/pdfs/pfpl2.pdf) ([Schedule](https://github.com/CompSciCabal/SMRTYPRTY/wiki/Reading-Schedule!-PFPL) and [Arcana](https://github.com/CompSciCabal/SMRTYPRTY/wiki/PFPL-And-Related-Arcana))
