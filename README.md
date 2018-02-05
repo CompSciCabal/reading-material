@@ -2,6 +2,15 @@
 
 ### Upcoming papers
 
+February 2018
+* February 9: [Dedalus: Datalog in Time and Space](http://www.neilconway.org/docs/dedalus_dl2.pdf)
+* February 2: [Datafun: A Functional Datalog](http://www.rntz.net/files/datafun.pdf)
+
+
+---------------------------
+
+### Past papers
+
 January 2018
 * January 26: A potpourii of homotopy: 
   * http://home.sandiego.edu/~shulman/papers/trinity.pdf 
@@ -10,11 +19,6 @@ January 2018
 * January 19: [A Modal Analysis of Staged Computation](https://www.cs.cmu.edu/~fp/papers/jacm00.pdf)
 * January 12: [A Modal Analysis of Staged Computation](https://www.cs.cmu.edu/~fp/papers/jacm00.pdf)
 * January 5: [A Modal Analysis of Staged Computation](https://www.cs.cmu.edu/~fp/papers/jacm00.pdf)
-
-
----------------------------
-
-### Past papers
 
 December 2017
 * December 15: Holiday Party and retrospective!
