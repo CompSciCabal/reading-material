@@ -3,6 +3,7 @@
 ### Upcoming papers
 
 February 2018
+* February 16: Bloom's Day! Make something in [Bloom](http://bloom-lang.net)!
 * February 9: [Dedalus: Datalog in Time and Space](http://www.neilconway.org/docs/dedalus_dl2.pdf)
 * February 2: [Datafun: A Functional Datalog](http://www.rntz.net/files/datafun.pdf)
 
