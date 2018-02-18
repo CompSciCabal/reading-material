@@ -2,7 +2,11 @@
 
 ### Upcoming papers
 
+March 2018
+* March 2: [Logic and Lattices for Distributed Programming](http://db.cs.berkeley.edu/papers/socc12-blooml.pdf)
+
 February 2018
+* February 23: [Consistency Analysis in Bloom: a CALM and Collected Approach](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf)
 * February 16: Bloom's Day! Make something in [Bloom](http://bloom-lang.net)!
 * February 9: [Dedalus: Datalog in Time and Space](http://www.neilconway.org/docs/dedalus_dl2.pdf)
 * February 2: [Datafun: A Functional Datalog](http://www.rntz.net/files/datafun.pdf)
