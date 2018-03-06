@@ -3,6 +3,8 @@
 ### Upcoming papers
 
 March 2018
+* March 16: [Propositions as Sessions](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-sessions/propositions-as-sessions.pdf)
+* March 9: [From Datalog to FLIX: A Declarative Language for Fixed Points on Lattices](https://plg.uwaterloo.ca/~olhotak/pubs/pldi16.pdf)
 * March 2: [Logic and Lattices for Distributed Programming](http://db.cs.berkeley.edu/papers/socc12-blooml.pdf)
 
 February 2018
