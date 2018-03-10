@@ -3,7 +3,7 @@
 ### Upcoming papers
 
 March 2018
-March 16, 23, 30: March break! We're taking a few weeks off for travel and recuperation. See you in April!
+* March 16, 23, 30: March break! We're taking a few weeks off for travel and recuperation. See you in April!
 
 ---------------------------
 
