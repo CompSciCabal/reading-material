@@ -3,7 +3,13 @@
 ### Upcoming papers
 
 March 2018
-* March 16: [Propositions as Sessions](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-sessions/propositions-as-sessions.pdf)
+March 16, 23, 30: March break! We're taking a few weeks off for travel and recuperation. See you in April!
+
+---------------------------
+
+### Past papers
+
+March 2018
 * March 9: [From Datalog to FLIX: A Declarative Language for Fixed Points on Lattices](https://plg.uwaterloo.ca/~olhotak/pubs/pldi16.pdf)
 * March 2: [Logic and Lattices for Distributed Programming](http://db.cs.berkeley.edu/papers/socc12-blooml.pdf)
 
@@ -12,11 +18,6 @@ February 2018
 * February 16: Bloom's Day! Make something in [Bloom](http://bloom-lang.net)!
 * February 9: [Dedalus: Datalog in Time and Space](http://www.neilconway.org/docs/dedalus_dl2.pdf)
 * February 2: [Datafun: A Functional Datalog](http://www.rntz.net/files/datafun.pdf)
-
-
----------------------------
-
-### Past papers
 
 January 2018
 * January 26: A potpourii of homotopy: 
