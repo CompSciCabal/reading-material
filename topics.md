@@ -1,0 +1,6 @@
+Session types (s(z))
+Supercompilation (s(z))
+Dependant types (s(z))
+HoTT (s(z))
+Esoteric languages (s(z))
+Distributed system design (s(z))
