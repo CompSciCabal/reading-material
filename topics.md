@@ -7,4 +7,4 @@ let s_b = s in
 * Distributed system design (s_b s(z))
 * Linear logics (s_b z)
 * Type systems (regions, modules, polymorphism, ...) (s_b z)
-* Typed logic programming (Lambda Prolog, Curry, Mercury, Twelf, theory, implementation) (s_b z)
+* Typed logic programming (Lambda Prolog, Curry, Mercury, Twelf, theory, implementation, PL/other applications) (s_b z)
