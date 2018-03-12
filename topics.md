@@ -10,3 +10,6 @@ let s_b = s in
 * Type and effect systems (modules, polymorphism, algebraic effects) (s_b z)
 * Denotational semantics (s_b z)
 * Typed/linear/concurrent logics and logic programming (LambdaProlog/Twelf/Celf/Lolli/Oz/Alice/Curry/Mercury, theory, implementation, PL/other applications) (s_b z)
+* Hash functions/cryptography/pseudo random number generators (s(z))
+* Build interpreter/compiler from for a language of interest, e.g. minikanran, datalog, bloom (s(z))
+* Applications of metaprogramming, e.g. texture generation, database query optimization, datalog optimization (s(z))
