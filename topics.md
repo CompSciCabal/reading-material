@@ -1,7 +1,7 @@
 let s_b = s in
-* Session types (s_b s z)
-* Supercompilation (s_b s z)
-* Functional language implementation (compilation, data parallelism, GPU execution) (s_b z)
+* Session types (s s_b s z)
+* Supercompilation (s s_b s z)
+* Functional language implementation (compilation, data parallelism, GPU execution) (s s_b z)
 * Dependent types and formal methods (Coq/Agda/Lean, applications to logic, PLs) (s_b s z)
 * HoTT (s_b s z)
 * Esoteric languages (s z)
@@ -11,5 +11,5 @@ let s_b = s in
 * Denotational semantics (s_b z)
 * Typed/linear/concurrent logics and logic programming (LambdaProlog/Twelf/Celf/Lolli/Oz/Alice/Curry/Mercury, theory, implementation, PL/other applications) (s_b z)
 * Hash functions/cryptography/pseudo random number generators (s z)
-* Build interpreter/compiler from for a language of interest, e.g. minikanran, datalog, bloom (s z)
-* Applications of metaprogramming, e.g. texture generation, database query optimization, datalog optimization (s z)
+* Build interpreter/compiler from for a language of interest, e.g. minikanran, datalog, bloom (s s z)
+* Applications of metaprogramming, e.g. texture generation, database query optimization, datalog optimization (s s z)
