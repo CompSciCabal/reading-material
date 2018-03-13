@@ -7,6 +7,7 @@ let s_b = s in
 * Esoteric languages (s z)
 * Distributed system design (s_b s z)
 * Large-scale/parallel algorithms (cache-oblivious and succinct data structures, graph algorithms, large-scale indexing) (s_b z)
+* Combinatorial optimization, linear programming, polyhedra, graph cuts, network flows (s_b z)
 * Type and effect systems (modules, polymorphism, algebraic effects) (s_b z)
 * Denotational semantics (s_b z)
 * Typed/linear/concurrent logics and logic programming (LambdaProlog/Twelf/Celf/Lolli/Oz/Alice/Curry/Mercury, theory, implementation, PL/other applications) (s_b z)
