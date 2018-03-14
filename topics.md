@@ -14,5 +14,5 @@ let s_b = s in
 * Hash functions/cryptography/pseudo random number generators (s_b s z)
 * Build interpreter/compiler from for a language of interest, e.g. minikanran, datalog, bloom (s_b s s z)
 * Applications of metaprogramming, e.g. texture generation, database query optimization, datalog optimization (s_b s s z)
-* Incremental computation, e.g. Adapton, Incremental λ-Calculi via Differentiation, Timely/Differential dataflow (s z)
-* Contraptions, theory and implementation (s z)
+* Incremental computation, e.g. Adapton, Incremental λ-Calculi via Differentiation, Timely/Differential dataflow (s_b s z)
+* Contraptions, theory and implementation (p s z)
