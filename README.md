@@ -3,7 +3,7 @@
 ### Upcoming papers
 
 April 2018
-* April 6: We're planning out the next story arc of our adventure together, starting Friday the 13th!
+* April 6: We're planning out the next story arc of our adventure together, which opens in theatres everywhere on Friday the 13th!
 
 March 2018
 * March 16, 23, 30: March break! We're taking a few weeks off for travel and recuperation. See you in April!
