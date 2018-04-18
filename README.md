@@ -3,7 +3,7 @@
 ### Upcoming papers
 
 April 2018
-* April 20: Interpreter and compiler show and tell! Please maybe some live coding and lively discussion!
+* April 20: Interpreter and compiler show and tell! Plus live coding and lively discussion!
 * April 13: [90 minute Scheme to C compiler](https://www.youtube.com/watch?v=Bp89aBm9tGU)
 * April 6: We're planning out the next story arc of our adventure together, which opens in theatres everywhere on Friday the 13th!
 
