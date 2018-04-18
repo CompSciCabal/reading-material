@@ -7,14 +7,12 @@ April 2018
 * April 13: [90 minute Scheme to C compiler](https://www.youtube.com/watch?v=Bp89aBm9tGU)
 * April 6: We're planning out the next story arc of our adventure together, which opens in theatres everywhere on Friday the 13th!
 
-March 2018
-* March 16, 23, 30: March break! We're taking a few weeks off for travel and recuperation. See you in April!
-
 ---------------------------
 
 ### Past papers
 
 March 2018
+* March 16, 23, 30: March break! We're taking a few weeks off for travel and recuperation. See you in April!
 * March 9: [From Datalog to FLIX: A Declarative Language for Fixed Points on Lattices](https://plg.uwaterloo.ca/~olhotak/pubs/pldi16.pdf)
 * March 2: [Logic and Lattices for Distributed Programming](http://db.cs.berkeley.edu/papers/socc12-blooml.pdf)
 
