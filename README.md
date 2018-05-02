@@ -4,7 +4,7 @@
 
 
 May 2018
-* May 11: [How to prove a compiler is fully abstract](https://dbp.io/essays/2018-04-19-how-to-prove-a-compiler-fully-abstract.html)
+* May 11: [How to prove a compiler fully abstract](https://dbp.io/essays/2018-04-19-how-to-prove-a-compiler-fully-abstract.html)
 * May 4: Breaktime! We're not meeting in person this week, but we'll be together virtually in real life.
 
 
