@@ -2,14 +2,21 @@
 
 ### Upcoming papers
 
-April 2018
-* April 20: Interpreter and compiler show and tell, live coding, and lively discussion!
-* April 13: [90 minute Scheme to C compiler](https://www.youtube.com/watch?v=Bp89aBm9tGU)
-* April 6: We're planning out the next story arc of our adventure together, which opens in theatres everywhere on Friday the 13th!
+
+May 2018
+* May 11: [How to prove a compiler is fully abstract](https://dbp.io/essays/2018-04-19-how-to-prove-a-compiler-fully-abstract.html)
+* May 4: Breaktime! We're not meeting in person this week, but we'll be together virtually in real life.
+
 
 ---------------------------
 
 ### Past papers
+
+April 2018
+* April 27: [John Backus's Turing Award lecture on FP](https://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf)
+* April 20: Interpreter and compiler show and tell, live coding, and lively discussion!
+* April 13: [90 minute Scheme to C compiler](https://www.youtube.com/watch?v=Bp89aBm9tGU)
+* April 6: We're planning out the next story arc of our adventure together, which opens in theatres everywhere on Friday the 13th!
 
 March 2018
 * March 16, 23, 30: March break! We're taking a few weeks off for travel and recuperation. See you in April!
