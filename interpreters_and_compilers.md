@@ -23,3 +23,4 @@
   - ["Fully-Abstract Compilation by Approximate Back-Translation"](https://lirias.kuleuven.be/bitstream/123456789/570054/2/logrel-for-facomp-authorversion.pdf)
 * [Verified Transformations on Functional Programs Using the Higher-Order Abstract Syntax Approach](https://www-users.cs.umn.edu/~ngopalan/papers/compilation/)
 * (Thesis) [Verified Compilation of Functional Programs](http://sparrow.cs.umn.edu/compilation/wang-phd-thesis/index.html)
+* [From System F to Typed Assembly Language](https://www.cs.princeton.edu/~dpw/papers/tal-toplas.pdf)
