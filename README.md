@@ -4,6 +4,7 @@
 
 
 May 2018
+* May 18: [Making a fast curry: push/enter vs. eval/apply for higher-order languages](https://pdfs.semanticscholar.org/196d/279fa1a2722777fef80ff16385ede118d55d.pdf)
 * May 11: [How to prove a compiler fully abstract](https://dbp.io/essays/2018-04-19-how-to-prove-a-compiler-fully-abstract.html)
 * May 4: Breaktime! We're not meeting in person this week, but we'll be together virtually in real life.
 
