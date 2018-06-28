@@ -5,10 +5,11 @@
 
 June 2018
 * June 29: Holiday break!!
-* June 22: 
-* June 15: 
-* June 8: 
-* June 1: 
+* June 22: [Numerical Linear Algebra, section 1](https://github.com/fastai/numerical-linear-algebra)
+* June 15: Show and Tell: Linear logic thingies!
+* June 8: [Taste of Linear Logic Tutorial](https://homepages.inf.ed.ac.uk/wadler/papers/lineartaste/lineartaste-revised.pdf)
+* June 1: https://www.cs.cmu.edu/~cmartens/lpnmr13.pdf
+
 
 
 ---------------------------
