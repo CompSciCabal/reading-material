@@ -3,16 +3,23 @@
 ### Upcoming papers
 
 
-May 2018
-* May 25: [Secrets of the Glasgow Haskell Compiler inliner](https://www.microsoft.com/en-us/research/wp-content/uploads/2002/07/inline.pdf)
-* May 18: [Making a fast curry: push/enter vs. eval/apply for higher-order languages](https://pdfs.semanticscholar.org/196d/279fa1a2722777fef80ff16385ede118d55d.pdf)
-* May 11: [How to prove a compiler fully abstract](https://dbp.io/essays/2018-04-19-how-to-prove-a-compiler-fully-abstract.html)
-* May 4: Breaktime! We're not meeting in person this week, but we'll be together virtually in real life.
+June 2018
+* June 29: Holiday break!!
+* June 22: 
+* June 15: 
+* June 8: 
+* June 1: 
 
 
 ---------------------------
 
 ### Past papers
+
+May 2018
+* May 25: [Secrets of the Glasgow Haskell Compiler inliner](https://www.microsoft.com/en-us/research/wp-content/uploads/2002/07/inline.pdf)
+* May 18: [Making a fast curry: push/enter vs. eval/apply for higher-order languages](https://pdfs.semanticscholar.org/196d/279fa1a2722777fef80ff16385ede118d55d.pdf)
+* May 11: [How to prove a compiler fully abstract](https://dbp.io/essays/2018-04-19-how-to-prove-a-compiler-fully-abstract.html)
+* May 4: Breaktime! We're not meeting in person this week, but we'll be together virtually in real life.
 
 April 2018
 * April 27: [John Backus's Turing Award lecture on FP](https://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf)
