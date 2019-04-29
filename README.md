@@ -1,7 +1,23 @@
 ## Friday night reading group
 
-### Upcoming papers
 
+
+### Upcoming Long Read
+
+May 2019 -> ?
+ - [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
+ 
+Lisp and some classic AI algorithms, what could possibly go wrong?  Kick-off session is Friday May 3rd, 2019 and we will work our way through the book over the summer.
+
+
+
+
+
+---------------------------
+
+### Past papers
+
+April 2019 - July 2018: Things were read, wikis weren't updated.
 
 June 2018
 * June 29: Holiday break!!
@@ -9,12 +25,6 @@ June 2018
 * June 15: Show and Tell: Linear logic thingies!
 * June 8: [Taste of Linear Logic Tutorial](https://homepages.inf.ed.ac.uk/wadler/papers/lineartaste/lineartaste-revised.pdf)
 * June 1: https://www.cs.cmu.edu/~cmartens/lpnmr13.pdf
-
-
-
----------------------------
-
-### Past papers
 
 May 2018
 * May 25: [Secrets of the Glasgow Haskell Compiler inliner](https://www.microsoft.com/en-us/research/wp-content/uploads/2002/07/inline.pdf)
